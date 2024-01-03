@@ -1,4 +1,7 @@
-# C_Movie
+![image](https://github.com/KimDong-gue/Command_Movie/assets/116249934/c0ac7c8f-3452-4a97-ba79-78be0a91d7e2)
+
+
+
  개인별 맞춤 영화 추천 프로그램
 
 - 기획
