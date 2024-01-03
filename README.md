@@ -7,6 +7,6 @@ Flow Chart
 
 
 시연 영상
-![11](https://github.com/KimDong-gue/Command_Movie/assets/116249934/d1185802-6236-412f-b15a-00428855b774)
+![image](https://github.com/KimDong-gue/Command_Movie/assets/116249934/d1185802-6236-412f-b15a-00428855b774)
 
 
