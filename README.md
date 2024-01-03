@@ -17,12 +17,14 @@
   
 ![image](https://github.com/KimDong-gue/Command_Movie/assets/116249934/1dd41513-3f49-4c34-a3c2-fd64aa2c765c)
 
+- 사용자 정보 입력 모듈 : 사용자에게 정보를 입력 받아 DB에 추가하고 해당 영화의 ‘키워드‘와 ‘줄거리＇를  추출하여 DB에 추가
+- 데이터 전 처리 모듈 : DB내의  유용한 정보를 추출하고 품사 태깅, 벡터화 시킨다. 
+- 유사도 측정 모듈 : ‘장르‘,’감독‘,’배우‘,’키워드‘,’줄거리‘ 각각 의 유사도를 측정하고 5개의 특징을 평균 내어 유사도의 순위를 매기는 방식
 
 ---
 - 시연 영상
 
 ![image](https://github.com/KimDong-gue/Command_Movie/assets/116249934/d1185802-6236-412f-b15a-00428855b774)
-
 
 ---
 # Contributer
