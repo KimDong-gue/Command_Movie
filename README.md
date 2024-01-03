@@ -14,6 +14,9 @@
 　　　　　　　| 사용자 입력단 제작     
 
 ### ○ Skils: Vecterizing, TF-IDF, MeCab, Cosine similarity
+### ○ DataSet: https://www.kmdb.or.kr/info/api/apiDetail/6 
+### ○ Project Schedule : 23.8.24 ~ 23.9.5
+
 
 ---
 
