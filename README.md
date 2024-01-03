@@ -1,6 +1,4 @@
-# -Subject: 개인별 맞춤 영화 추천 프로그램
-
-### -Skils: Vecterizing, TF-IDF, MeCab, Cosine similarity
+# ○ Subject: 개인별 맞춤 영화 추천 프로그램
 
 # Contributer
 
@@ -14,6 +12,9 @@
 　　　　　　　| 유사도 측정             
 최수열(팀원) | 데이터 전처리(품사 태깅) 
 　　　　　　　| 사용자 입력단 제작     
+
+### ○ Skils: Vecterizing, TF-IDF, MeCab, Cosine similarity
+
 ---
 
 ![image](https://github.com/KimDong-gue/Command_Movie/assets/116249934/c0ac7c8f-3452-4a97-ba79-78be0a91d7e2)
